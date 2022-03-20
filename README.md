@@ -9,3 +9,6 @@ The current PCBs work! I'm am now confident enough to start rolling out build in
 
 ## Handwired
 There is a handwired case available that I'm fairly happy with. You can find it in the `./case` directory
+
+## Attribution
+All emojis designed by OpenMoji – the open-source emoji and icon project. License: CC BY-SA 4.0
